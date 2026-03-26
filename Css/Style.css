@@ -1,0 +1,22 @@
+.Macroeconomia{
+    color:#191970;
+        font-size:5em;
+    font-family: fantasy;
+    text-align: center;
+}
+.text1{
+    color:#602424;
+    font-size:1.5em;
+    text-align: center;
+}
+.titulos{
+     color:#716744;
+        font-size:4em;
+    font-family: fantasy;
+    text-align: inherit;
+}
+.card-text{
+    color:#716744;
+        font-size:1.5em;
+    text-align: left;
+}
